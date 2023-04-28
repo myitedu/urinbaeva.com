@@ -24,7 +24,12 @@ Primary use:    pxdraft
 html {
   overflow-x: hidden;
 }
-
+#icon{
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 25px;
+}
 body {
   background: #10101a;
   color: rgba(255, 255, 255, 0.8);
@@ -118,7 +123,7 @@ mark {
   }
 }
 /* ----------------------
-*	owl 
+*	owl
 ---------------------------*/
 .owl-dots {
   text-align: center;

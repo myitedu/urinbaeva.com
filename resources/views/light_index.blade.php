@@ -54,7 +54,7 @@
         <div class="hl-top">
             <div class="hl-logo">
                 <a href="#">
-                    N
+                    <img src="/nairo/static/img/letter-z.jpg" alt="">
                 </a>
             </div>
         </div>
@@ -89,7 +89,13 @@
                     <i class="fas fa-id-card-alt"></i>
                 </a>
             </li>
+            <li>
+                <a class="nav-link" href="#change_mode" data-toggle="tooltip" title="CHANGE MODE">
+                    <img src="/nairo/static/img/moon.jpg" id="icon">
+                </a>
+            </li>
         </ul>
+
     </div>
 </header>
 <!-- End nav bar -->
@@ -124,7 +130,7 @@
                 </div>
             </div>
         </div>
-        <div class="hb-me" style="background-image: url(nairo/static/img/home-banner.png);"></div>
+        <div class="hb-me" style="background-image: url(nairo/static/img/muslim-banner.jpg);"></div>
     </section>
     <!-- End Home -->
     <!-- about us -->
@@ -802,6 +808,7 @@
 <!-- custom js -->
 <script src="/nairo/static/js/custom.js"></script>
 <script src="/nairo/static/js/mail_send.js"></script>
+<script src="/js/main.js"></script>
 <!-- end -->
 </body>
 <!-- Body End -->
