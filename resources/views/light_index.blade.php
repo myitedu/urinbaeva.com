@@ -90,8 +90,8 @@
                 </a>
             </li>
             <li>
-                <a class="nav-link" href="#change_mode" data-toggle="tooltip" title="CHANGE MODE">
-                    <img src="/nairo/static/img/moon.jpg" id="icon">
+                <a data-change_mode="sun" class="nav-link" href="#" data-toggle="tooltip" title="CHANGE MODE">
+                    <img alt="change mode icon" src="/nairo/static/img/moon.jpg" id="icon">
                 </a>
             </li>
         </ul>

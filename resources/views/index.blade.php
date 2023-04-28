@@ -1,16 +1,15 @@
 <!DOCTYPE html>
-<html lang="zxx">
-
+<html lang="en">
 <head>
     <!-- metas -->
     <meta charset="utf-8">
     <meta name="author" content="themepaa">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="keywords" content="Nairo - Portfolio Template">
-    <meta name="description" content="Nairo - Portfolio Template">
+    <meta name="keywords" content="developer, php developer, Zarina Urinbaeva, uzbek dasturchi, new york programer">
+    <meta name="description" content="A New York software developer - Zarina Urinbaeva">
     <!-- title -->
-    <title>Nairo - Portfolio Template</title>
+    <title>The official website of Zarina Urinbaeva</title>
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <!-- plugin CSS -->
@@ -99,8 +98,8 @@
     <section id="home" class="home-banner">
         <div class="hb-top-fixed d-flex">
             <div class="hb-info">
-                <label>+04 6545-9535-6515</label>
-                <label>nairobi-designer@domain.com</label>
+                <label>+1 (347)-576-4951</label>
+                <label>info@myitedu.us</label>
             </div>
             <div class="hb-lang">
                 <ul class="nav">
@@ -114,7 +113,7 @@
                 <div class="col-lg-7">
                     <div class="type-box">
                         <h6>Hello, My name is</h6>
-                        <h1 class="font-alt">Nairobi Gadot</h1>
+                        <h2 class="font-alt">ZARINA URINBAEVA</h2>
                         <p class="lead">Full-stack Developer | UX/UI Designer | Freelancer</p>
                         <p class="desc">I design and develop services for customers of all sizes, specializing in creating stylish, modern websites, web services and online stores.</p>
                         <div class="btn-bar">
@@ -135,7 +134,7 @@
                     <div class="about-me">
                         <div class="img">
                             <div class="img-in">
-                                <img src="/nairo/static/img/650x650.jpg" title="" alt="">
+                                <img src="https://st4.depositphotos.com/10614052/26512/i/450/depositphotos_265129756-stock-photo-female-programmer-working-in-office.jpg" title="" alt="">
                             </div>
                             <div class="nav social-icons justify-content-center">
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -482,9 +481,9 @@
                             <span>Broadcasting ios App</span>
                         </div>
                         <div class="portfolio-img">
-                            <img src="/nairo/static/img/650x650.jpg" title="" alt="">
+                            <img src="https://st4.depositphotos.com/10614052/26512/i/450/depositphotos_265129756-stock-photo-female-programmer-working-in-office.jpg" title="" alt="">
                             <div class="portfolio-icon">
-                                <a href="/nairo/static/img/650x650.jpg" class="gallery-link">
+                                <a href="https://st4.depositphotos.com/10614052/26512/i/450/depositphotos_265129756-stock-photo-female-programmer-working-in-office.jpg" class="gallery-link">
                                     <span class="ti-plus"></span>
                                 </a>
                             </div>
